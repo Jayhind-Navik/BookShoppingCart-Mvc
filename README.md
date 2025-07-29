@@ -1,4 +1,6 @@
 OUTPUT
+Console.WriteLine("Connecting to SQL Server with connection string:");
+Console.WriteLine(builder.Configuration.GetConnectionString("DefaultConnection"));
 
 <img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/61ce5332-0a08-4bb9-b2f8-5505d2fc770b" />
 

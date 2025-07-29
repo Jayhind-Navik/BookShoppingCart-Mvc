@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|c:\\users\\heman\\source\\repos\\bookshoppingcart-mvc\\bookshoppingcartmvcui\\migrations\\20250729080239_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\migrations\\20250729080239_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|c:\\users\\heman\\source\\repos\\bookshoppingcart-mvc\\bookshoppingcartmvcui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|c:\\users\\heman\\source\\repos\\bookshoppingcart-mvc\\bookshoppingcartmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|c:\\users\\heman\\source\\repos\\bookshoppingcart-mvc\\bookshoppingcartmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250729080239_init.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\Migrations\\20250729080239_init.cs",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Migrations\\20250729080239_init.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\Migrations\\20250729080239_init.cs",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\Migrations\\20250729080239_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:02:39.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\appsettings.Development.json",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T08:01:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\appsettings.json",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T07:56:25.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\Program.cs",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Program.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\Program.cs",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:55:30.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

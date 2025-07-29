@@ -1,0 +1,6 @@
+wwwroot\css\bootstrap.min.css
+wwwroot\favicon.ico
+wwwroot\images\hobbit.jfif
+wwwroot\images\NoImage.png
+C:\Users\heman\source\repos\BookShoppingCart-Mvc\BookShoppingCartMvcUI\wwwroot\css\bootstrap.min.css
+C:\Users\heman\source\repos\BookShoppingCart-Mvc\BookShoppingCartMvcUI\wwwroot\favicon.ico
